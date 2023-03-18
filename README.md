@@ -1,15 +1,17 @@
 ### Olá! Tudo bom?
-Eu me chamo Erick Allan, sou desenvolvedor Web e sobretudo um apaixonado por tecnologias. Atualmente eu desenvolvo websites e web aplicações em ReactJS, NodeJS e Typescript, além de utilizar Sass, Styled-Components, CSS Modules e Tailwind CSS, de acordo com as demandas de cada projeto. 
+
+Me chamo Erick Allan, sou desenvolvedor full-stack e apaixonado por tecnologia. Atualmente, tenho projetos pessoais e profissionais que foram desenvolvidos utilizando javascript (react e node), typescript, mySQL, postgreSQL, entre outras tecnologias.
 
 ### Profissional
-Atualmente eu desenvolvo soluções em tecnologia, marcadamente websites e webapps, participando de todas as etapas desde a negociação e planejamento do produto, até a entrega e possíveis correções e incrementos. Ademais, estou cursando bacharelado em Ciências da Computação, pela Universidade Potiguar, e estudo através de cursos online e livros sobre assuntos que complementem o conhecimento sobre desenvolvimento e sobre a computação, em geral.
+
+Atualmente, estou cursando Bacharelado em Ciências da Computação, e sou Full-stack developer intern no @SenacRN. Além disso, desenvolvo projetos profissionais que variam desde sites pessoais a sistemas web.
 
 ### Contato
-Podem entrar em contato comigo por [Whatsapp](https://wa.me/5584996501098), através do email erickallann@gmail.com, ou ainda através do número (84)99650-1098.
+
+Entre em contato comigo através do WhatsApp (https://wa.me/5584996501098), e-mail (erickallann@gmail.com) ou telefone ((84) 99650-1098).
 
 ### Links adicionais
-<ul>
-<li> [Portfolio] (https://eawebdev.com) </li>
-<li> [Linkedin] (https://www.linkedin.com/in/erickallansilva/) </li>
-</ul>
 
+- [Portfolio](https://eawebdev.com)
+- [LinkedIn](https://www.linkedin.com/in/erickallansilva/)
+- [Twitter](https://twitter.com/erickallandev)
