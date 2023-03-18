@@ -19,6 +19,8 @@ You can reach me through WhatsApp (https://wa.me/5584996501098), email (erickall
 
 
 
+
+
 (PT-BR)
 ### Olá! Tudo bom?
 
